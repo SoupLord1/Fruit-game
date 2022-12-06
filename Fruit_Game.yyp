@@ -4,6 +4,7 @@
   "name": "Fruit_Game",
   "resources": [
     {"id":{"name":"s_watermelon","path":"sprites/s_watermelon/s_watermelon.yy",},"order":6,},
+    {"id":{"name":"obj_GayBalls","path":"objects/obj_GayBalls/obj_GayBalls.yy",},"order":4,},
     {"id":{"name":"s_Solid","path":"sprites/s_Solid/s_Solid.yy",},"order":1,},
     {"id":{"name":"obj_bullet","path":"objects/obj_bullet/obj_bullet.yy",},"order":3,},
     {"id":{"name":"reusable_scripts","path":"scripts/reusable_scripts/reusable_scripts.yy",},"order":1,},
@@ -21,9 +22,9 @@
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
-    {"name":"operagx","path":"options/operagx/options_operagx.yy",},
     {"name":"Main","path":"options/main/options_main.yy",},
     {"name":"Windows","path":"options/windows/options_windows.yy",},
+    {"name":"operagx","path":"options/operagx/options_operagx.yy",},
   ],
   "defaultScriptType": 1,
   "isEcma": false,
