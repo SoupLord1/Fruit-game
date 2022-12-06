@@ -3,7 +3,6 @@
   "resourceVersion": "1.6",
   "name": "Understanding GML code",
   "resources": [
-    {"id":{"name":"Main_Menu","path":"rooms/Main_Menu/Main_Menu.yy",},"order":1,},
     {"id":{"name":"s_watermelon","path":"sprites/s_watermelon/s_watermelon.yy",},"order":6,},
     {"id":{"name":"s_Solid","path":"sprites/s_Solid/s_Solid.yy",},"order":1,},
     {"id":{"name":"obj_bullet","path":"objects/obj_bullet/obj_bullet.yy",},"order":3,},
@@ -14,16 +13,15 @@
     {"id":{"name":"s_apple","path":"sprites/s_apple/s_apple.yy",},"order":3,},
     {"id":{"name":"obj_solid","path":"objects/obj_solid/obj_solid.yy",},"order":1,},
     {"id":{"name":"s_bullet","path":"sprites/s_bullet/s_bullet.yy",},"order":2,},
-    {"id":{"name":"s_title","path":"sprites/s_title/s_title.yy",},"order":7,},
     {"id":{"name":"player_processes","path":"scripts/player_processes/player_processes.yy",},"order":0,},
     {"id":{"name":"s_banana","path":"sprites/s_banana/s_banana.yy",},"order":4,},
     {"id":{"name":"s_player","path":"sprites/s_player/s_player.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
+    {"name":"operagx","path":"options/operagx/options_operagx.yy",},
     {"name":"Main","path":"options/main/options_main.yy",},
     {"name":"Windows","path":"options/windows/options_windows.yy",},
-    {"name":"operagx","path":"options/operagx/options_operagx.yy",},
   ],
   "defaultScriptType": 1,
   "isEcma": false,
@@ -33,7 +31,6 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"roomId":{"name":"Main_Menu","path":"rooms/Main_Menu/Main_Menu.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy","order":12,},
