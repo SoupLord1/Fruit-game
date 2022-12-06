@@ -5,7 +5,7 @@ get_input();
 
 calc_movement();
 
-
+//Keyboards Imputs
 if keyboard_check(ord("W")) {
 	image_index = 1;
 	last_dir = 90;
@@ -28,7 +28,7 @@ else {
 
 
 
-
+//Shooting timer
 if (timer > 0)
 {
     timer -= 1/room_speed //decrease in seconds
