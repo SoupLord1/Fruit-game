@@ -68,7 +68,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Fruit_Game",
-    "path": "Fruit_Game.yyp",
+    "name": "Sounds",
+    "path": "folders/Sprites/Sounds.yy",
   },
 }

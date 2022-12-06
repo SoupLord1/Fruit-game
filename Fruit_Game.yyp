@@ -3,7 +3,7 @@
   "resourceVersion": "1.6",
   "name": "Fruit_Game",
   "resources": [
-    {"id":{"name":"s_play","path":"sprites/s_play/s_play.yy",},"order":15,},
+    {"id":{"name":"s_play","path":"sprites/s_play/s_play.yy",},"order":0,},
     {"id":{"name":"s_watermelon","path":"sprites/s_watermelon/s_watermelon.yy",},"order":6,},
     {"id":{"name":"obj_GayBalls","path":"objects/obj_GayBalls/obj_GayBalls.yy",},"order":4,},
     {"id":{"name":"s_Solid","path":"sprites/s_Solid/s_Solid.yy",},"order":1,},

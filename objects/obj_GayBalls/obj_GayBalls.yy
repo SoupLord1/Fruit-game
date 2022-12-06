@@ -2,10 +2,7 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "obj_GayBalls",
-  "spriteId": {
-    "name": "s_title",
-    "path": "sprites/s_title/s_title.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "managed": true,
