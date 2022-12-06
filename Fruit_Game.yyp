@@ -1,7 +1,7 @@
 {
   "resourceType": "GMProject",
   "resourceVersion": "1.6",
-  "name": "Understanding GML code",
+  "name": "Fruit_Game",
   "resources": [
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},"order":1,},
     {"id":{"name":"s_watermelon","path":"sprites/s_watermelon/s_watermelon.yy",},"order":6,},
