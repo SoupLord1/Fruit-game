@@ -5,11 +5,11 @@
   "resources": [
     {"id":{"name":"s_Solid","path":"sprites/s_Solid/s_Solid.yy",},"order":1,},
     {"id":{"name":"obj_bullet","path":"objects/obj_bullet/obj_bullet.yy",},"order":3,},
+    {"id":{"name":"reusable_scripts","path":"scripts/reusable_scripts/reusable_scripts.yy",},"order":1,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
     {"id":{"name":"obj_game","path":"objects/obj_game/obj_game.yy",},"order":2,},
     {"id":{"name":"obj_solid","path":"objects/obj_solid/obj_solid.yy",},"order":1,},
     {"id":{"name":"s_bullet","path":"sprites/s_bullet/s_bullet.yy",},"order":2,},
-    {"id":{"name":"JustAPushTest","path":"objects/JustAPushTest/JustAPushTest.yy",},"order":4,},
     {"id":{"name":"player_processes","path":"scripts/player_processes/player_processes.yy",},"order":0,},
     {"id":{"name":"s_player","path":"sprites/s_player/s_player.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},

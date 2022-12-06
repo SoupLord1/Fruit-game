@@ -27,6 +27,19 @@ else {
 }
 
 
-if keyboard_check(vk_space) {
+
+
+if (timer > 0)
+{
+    timer -= 1/room_speed //decrease in seconds
+}
+else
+{
+    
+}
+
+if mouse_check_button_pressed(vk_space){
+    timer = timermax;
 	instance_create_layer(x, y, "Instances", obj_bullet);
 }
+//instance_create_layer(x, y, "Instances", obj_bullet);

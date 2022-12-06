@@ -3,3 +3,6 @@
 walk_spd = 1.5;
 
 last_dir = 0;
+
+timer = 0;
+timermax = 0.10;
