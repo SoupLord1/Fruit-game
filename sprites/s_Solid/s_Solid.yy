@@ -68,7 +68,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "World Building",
+    "path": "folders/Constant Use/Sprites/World Building.yy",
   },
 }

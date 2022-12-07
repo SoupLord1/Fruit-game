@@ -30,7 +30,7 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "World Buidling",
+    "path": "folders/Constant Use/Objects/World Buidling.yy",
   },
 }

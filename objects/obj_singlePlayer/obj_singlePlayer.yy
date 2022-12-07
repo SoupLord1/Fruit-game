@@ -1,8 +1,11 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_game",
-  "spriteId": null,
+  "name": "obj_singlePlayer",
+  "spriteId": {
+    "name": "s_singlePlayer",
+    "path": "sprites/s_singlePlayer/s_singlePlayer.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,
@@ -21,13 +24,11 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":64,"eventType":8,"collisionObjectId":null,},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Random Crap",
-    "path": "folders/Constant Use/Objects/Random Crap.yy",
+    "name": "group1",
+    "path": "folders/Constant Use/Objects/group1/group1.yy",
   },
 }
