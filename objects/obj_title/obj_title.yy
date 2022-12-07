@@ -28,7 +28,7 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "group1",
-    "path": "folders/Constant Use/Objects/group1/group1.yy",
+    "name": "Main Menu",
+    "path": "folders/Constant Use/Objects/Menus/Main Menu.yy",
   },
 }

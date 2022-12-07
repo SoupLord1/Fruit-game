@@ -9,7 +9,7 @@ if mouse_check_button(mb_left) and  position_meeting(mouse_x, mouse_y, obj_singl
        //Activaing Single Player
 	   Gamemode = 1;
 	   //Going to Room1
-	   room_goto(Room1);
+	   room_goto(Class_Menu);
 }
 //Idle Functions
 else

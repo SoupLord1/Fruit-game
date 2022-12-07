@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_singlePlayer",
+  "name": "obj_appleClassMenu",
   "spriteId": {
-    "name": "s_singlePlayer",
-    "path": "sprites/s_singlePlayer/s_singlePlayer.yy",
+    "name": "s_appleClassMenu",
+    "path": "sprites/s_appleClassMenu/s_appleClassMenu.yy",
   },
   "solid": false,
   "visible": true,
@@ -25,13 +25,12 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Main Menu",
-    "path": "folders/Constant Use/Objects/Menus/Main Menu.yy",
+    "name": "Class Menu",
+    "path": "folders/Constant Use/Objects/Menus/Class Menu.yy",
   },
 }
