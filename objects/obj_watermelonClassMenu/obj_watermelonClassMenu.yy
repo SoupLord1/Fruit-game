@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_appleClassMenu",
+  "name": "obj_watermelonClassMenu",
   "spriteId": {
-    "name": "s_appleClassMenu",
-    "path": "sprites/s_appleClassMenu/s_appleClassMenu.yy",
+    "name": "s_watermelonClassMenu",
+    "path": "sprites/s_watermelonClassMenu/s_watermelonClassMenu.yy",
   },
   "solid": false,
   "visible": true,

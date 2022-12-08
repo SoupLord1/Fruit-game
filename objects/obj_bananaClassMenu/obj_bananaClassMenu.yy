@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_appleClassMenu",
+  "name": "obj_bananaClassMenu",
   "spriteId": {
-    "name": "s_appleClassMenu",
-    "path": "sprites/s_appleClassMenu/s_appleClassMenu.yy",
+    "name": "s_bananaClassMenu",
+    "path": "sprites/s_bananaClassMenu/s_bananaClassMenu.yy",
   },
   "solid": false,
   "visible": true,

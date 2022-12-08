@@ -1,7 +1,7 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "s_BananaClassMenu",
+  "name": "s_bananaClassMenu",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -34,7 +34,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "s_BananaClassMenu",
+    "name": "s_bananaClassMenu",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 0.0,
@@ -46,8 +46,8 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"5c9e3c38-b147-4556-97ba-3425197b9aac","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"22c66b27-1638-4e81-b402-eaa3d252017b","path":"sprites/s_BananaClassMenu/s_BananaClassMenu.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"dd837a6e-c8f3-49aa-ad69-7034dd979f08","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"0dfbfddb-ce08-4fd9-9032-c924c72e558d","path":"sprites/s_BananaClassMenu/s_BananaClassMenu.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"5c9e3c38-b147-4556-97ba-3425197b9aac","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"22c66b27-1638-4e81-b402-eaa3d252017b","path":"sprites/s_bananaClassMenu/s_bananaClassMenu.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"dd837a6e-c8f3-49aa-ad69-7034dd979f08","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"0dfbfddb-ce08-4fd9-9032-c924c72e558d","path":"sprites/s_bananaClassMenu/s_bananaClassMenu.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
