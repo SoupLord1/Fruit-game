@@ -34,7 +34,7 @@
     {"id":{"name":"s_singlePlayer","path":"sprites/s_singlePlayer/s_singlePlayer.yy",},"order":0,},
     {"id":{"name":"s_banana","path":"sprites/s_banana/s_banana.yy",},"order":1,},
     {"id":{"name":"s_player","path":"sprites/s_player/s_player.yy",},"order":3,},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
+    {"id":{"name":"GameTestingRoom","path":"rooms/GameTestingRoom/GameTestingRoom.yy",},"order":0,},
   ],
   "Options": [
     {"name":"Main","path":"options/main/options_main.yy",},
@@ -48,9 +48,9 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"GameTestingRoom","path":"rooms/GameTestingRoom/GameTestingRoom.yy",},},
     {"roomId":{"name":"Main_Menu","path":"rooms/Main_Menu/Main_Menu.yy",},},
     {"roomId":{"name":"Class_Menu","path":"rooms/Class_Menu/Class_Menu.yy",},},
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy","order":7,},
