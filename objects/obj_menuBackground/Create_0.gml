@@ -9,4 +9,4 @@ option[1] = "Banana";
 option[2] = "Cherry";
 option[3] = "Watermelon";
 
-op_length = array_length()(option);
+op_length = array_length(option);
