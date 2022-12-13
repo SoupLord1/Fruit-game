@@ -1,6 +1,5 @@
-obj_Melee.x = obj_player.x;
-obj_Melee.y = obj_player.y;
 
+obj_Melee.image_angle = point_direction(obj_Melee.x, obj_Melee.y, mouse_x, mouse_y) - 90;
 
 reset_vars();
 
@@ -28,8 +27,6 @@ else if keyboard_check(ord("A")) {
 else {
 	image_index = 0;	
 }
-
-
 
 //Shooting timer
 if (timer > 0)
