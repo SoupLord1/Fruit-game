@@ -1,3 +1,6 @@
+obj_Melee.x = obj_player.x;
+obj_Melee.y = obj_player.y;
+
 
 reset_vars();
 
