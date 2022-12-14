@@ -31,7 +31,6 @@
     {"id":{"name":"s_apple","path":"sprites/s_apple/s_apple.yy",},"order":0,},
     {"id":{"name":"Main_Menu","path":"rooms/Main_Menu/Main_Menu.yy",},"order":1,},
     {"id":{"name":"obj_solid","path":"objects/obj_solid/obj_solid.yy",},"order":0,},
-    {"id":{"name":"obj_menuBackground","path":"objects/obj_menuBackground/obj_menuBackground.yy",},"order":3,},
     {"id":{"name":"obj_badman","path":"objects/obj_badman/obj_badman.yy",},"order":3,},
     {"id":{"name":"s_bullet","path":"sprites/s_bullet/s_bullet.yy",},"order":0,},
     {"id":{"name":"player_processes","path":"scripts/player_processes/player_processes.yy",},"order":0,},
@@ -53,8 +52,8 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"GameTestingRoom","path":"rooms/GameTestingRoom/GameTestingRoom.yy",},},
-    {"roomId":{"name":"Main_Menu","path":"rooms/Main_Menu/Main_Menu.yy",},},
     {"roomId":{"name":"Class_Menu","path":"rooms/Class_Menu/Class_Menu.yy",},},
+    {"roomId":{"name":"Main_Menu","path":"rooms/Main_Menu/Main_Menu.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy","order":7,},
@@ -78,7 +77,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"World Building","folderPath":"folders/Constant Use/Sprites/World Building.yy","order":2,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Extensions","folderPath":"folders/Extensions.yy","order":9,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Fonts","folderPath":"folders/Fonts.yy","order":3,},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Notes","folderPath":"folders/Notes.yy","order":8,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Notes","folderPath":"folders/Fonts/Notes.yy","order":0,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Paths","folderPath":"folders/Paths.yy","order":1,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Rooms","folderPath":"folders/Rooms.yy","order":5,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sequences","folderPath":"folders/Sequences.yy","order":6,},
