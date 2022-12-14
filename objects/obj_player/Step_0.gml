@@ -24,6 +24,9 @@ else if keyboard_check(ord("A")) {
 	image_index = 4;
 	last_dir = 180;
 }
+else if keyboard_check(ord("T")) {
+	instance_create_layer(irandom_range(10, 300), irandom_range(10, 200), "Instances", obj_badman);	
+}
 else {
 	image_index = 0;	
 }
