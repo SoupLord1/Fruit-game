@@ -19,6 +19,8 @@
     {"id":{"name":"obj_singlePlayer","path":"objects/obj_singlePlayer/obj_singlePlayer.yy",},"order":0,},
     {"id":{"name":"obj_bananaClassMenu","path":"objects/obj_bananaClassMenu/obj_bananaClassMenu.yy",},"order":1,},
     {"id":{"name":"obj_Melee","path":"objects/obj_Melee/obj_Melee.yy",},"order":1,},
+    {"id":{"name":"obj_classMenu","path":"objects/obj_classMenu/obj_classMenu.yy",},"order":11,},
+    {"id":{"name":"obj_play","path":"objects/obj_play/obj_play.yy",},"order":12,},
     {"id":{"name":"obj_cherryClassMenu","path":"objects/obj_cherryClassMenu/obj_cherryClassMenu.yy",},"order":2,},
     {"id":{"name":"s_Test_sword","path":"sprites/s_Test_sword/s_Test_sword.yy",},"order":0,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
@@ -51,9 +53,9 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"Main_Menu","path":"rooms/Main_Menu/Main_Menu.yy",},},
     {"roomId":{"name":"GameTestingRoom","path":"rooms/GameTestingRoom/GameTestingRoom.yy",},},
     {"roomId":{"name":"Class_Menu","path":"rooms/Class_Menu/Class_Menu.yy",},},
-    {"roomId":{"name":"Main_Menu","path":"rooms/Main_Menu/Main_Menu.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy","order":7,},
