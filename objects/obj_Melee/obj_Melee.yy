@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "obj_Melee",
   "spriteId": {
-    "name": "s_Test_sword",
-    "path": "sprites/s_Test_sword/s_Test_sword.yy",
+    "name": "s_64_Test_sword",
+    "path": "sprites/s_64_Test_sword/s_64_Test_sword.yy",
   },
   "solid": false,
   "visible": true,
@@ -27,6 +27,7 @@
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
   ],
   "properties": [],
   "overriddenProperties": [],

@@ -3,9 +3,11 @@
 if (enemyhealth <= 0) {
 	instance_destroy();	
 }
-image_index = 0;
+if (frame_cooldown < 1) {
+	currentframe = 0;
+}
 
 move_towards_point(irandom_range(10, 300), irandom_range(10, 200) , 1);
-
-
+image_index = currentframe
+frame_cooldown -= 1;
 
