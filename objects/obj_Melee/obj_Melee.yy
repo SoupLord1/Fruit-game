@@ -33,6 +33,6 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Player",
-    "path": "folders/Constant Use/Objects/Player.yy",
+    "path": "folders/Objects/Player.yy",
   },
 }

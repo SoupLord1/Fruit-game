@@ -95,6 +95,6 @@
   },
   "parent": {
     "name": "Melee",
-    "path": "folders/Constant Use/Sprites/Melee.yy",
+    "path": "folders/Sprites/Melee.yy",
   },
 }

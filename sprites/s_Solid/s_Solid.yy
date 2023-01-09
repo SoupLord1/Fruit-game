@@ -69,6 +69,6 @@
   "nineSlice": null,
   "parent": {
     "name": "World Building",
-    "path": "folders/Constant Use/Sprites/World Building.yy",
+    "path": "folders/Sprites/World Building.yy",
   },
 }

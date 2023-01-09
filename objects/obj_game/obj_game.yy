@@ -29,6 +29,6 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Random Crap",
-    "path": "folders/Constant Use/Objects/Random Crap.yy",
+    "path": "folders/Objects/Random Crap.yy",
   },
 }

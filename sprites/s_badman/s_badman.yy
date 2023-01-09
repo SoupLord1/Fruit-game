@@ -71,6 +71,6 @@
   "nineSlice": null,
   "parent": {
     "name": "Random Crap",
-    "path": "folders/Constant Use/Sprites/Random Crap.yy",
+    "path": "folders/Sprites/Random Crap.yy",
   },
 }
