@@ -95,6 +95,6 @@
   },
   "parent": {
     "name": "Main Menu",
-    "path": "folders/Constant Use/Sprites/Menus/Main Menu.yy",
+    "path": "folders/Sprites/Menus/Main Menu.yy",
   },
 }
