@@ -4,4 +4,4 @@ enemyhealth = 10;
 frame_cooldown = 0;
 currentframe = 0;
 
-obj_Melee.sprite_index = "s_64_Test_sword"
+obj_Melee.sprite_index = s_64_Test_sword;
